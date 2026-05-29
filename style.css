@@ -2,13 +2,8 @@ body {
     background-color:rgb(204, 248, 189);
 }
 
-h1{
+h1, h2{
     text-align:center;
+    color:rgb(101, 124, 60);
     text-shadow: 2px 2px 5px green;
-}
-
-h2{
-    text-align:center;
-    text-shadow: 2px 2px 5px green;
-    letter-spacing: 5px;
 }
