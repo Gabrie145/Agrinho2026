@@ -1,9 +1,13 @@
 body {
     background-color:rgb(204, 248, 189);
-    opacity: 0.8"
 }
 
 h1{
     text-align:center;
-    text-shadow: 2px 2px 5px red;
+    text-shadow: 2px 2px 5px green;
+}
+
+h2{
+    text-align:center;
+    text-shadow: 2px 2px 5px green;
 }
