@@ -4,7 +4,7 @@ body {
 
 h1, h2{
     text-align:center;
-    color:rgb(73, 129, 61);
+    color:whitesmoke;
     text-shadow: 2px 2px 5px rgb(2, 97, 2); 
     font-family: "Times New Roman", Times, serif;
      font-size:4vw;
@@ -17,4 +17,12 @@ h2{
 p{
     margin: 8;
     font-family: "Papyrus", fantasy;
+}
+
+.img1 {
+    width: 50%;
+}
+
+img2 {
+    width: 50%;
 }
