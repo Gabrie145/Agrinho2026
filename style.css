@@ -1,9 +1,20 @@
 body {
-    background-color:rgb(204, 248, 189);
+    background-color:rgb(225, 238, 221);
 }
 
 h1, h2{
     text-align:center;
-    color:rgb(101, 124, 60);
-    text-shadow: 2px 2px 5px green;
+    color:rgb(73, 129, 61);
+    text-shadow: 2px 2px 5px rgb(2, 97, 2); 
+    font-family: "Times New Roman", Times, serif;
+     font-size:4vw;
+}
+
+h2{
+    font-size: large;
+}
+
+p{
+    margin: 8;
+    font-family: "Papyrus", fantasy;
 }
