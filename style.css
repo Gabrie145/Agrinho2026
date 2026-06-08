@@ -10,12 +10,19 @@ h1{
      font-size:4vw;
 }
 
+h2{
+     color:whitesmoke;
+    text-shadow: 2px 2px 5px rgb(2, 97, 2); 
+    font-family: "Times New Roman", Times, serif;
+}
+
 p{
-    margin: 15%;
+    margin: 5%;
     font-family: "Papyrus", fantasy;
 }
 
 .img1 {
+    text-align:center;
     margin: auto;
   width: 35%;
 }
