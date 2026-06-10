@@ -11,6 +11,7 @@ h1{
 }
 
 h2{
+    text-align:center;
      color:whitesmoke;
     text-shadow: 2px 2px 5px rgb(2, 97, 2); 
     font-family: "Times New Roman", Times, serif;
@@ -22,7 +23,6 @@ p{
 }
 
 .img1 {
-    text-align:center;
     margin: auto;
   width: 35%;
 }
