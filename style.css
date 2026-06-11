@@ -27,3 +27,18 @@ p{
     margin: auto;
   width:25%;
 }
+
+.botao {
+    background-color: #2E7D32;
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.botao:hover {
+    background-color: #66BB6A;
+    transform: scale(1.05);
+}
