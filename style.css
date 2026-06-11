@@ -21,6 +21,8 @@ h2{
 p{
     margin: 5%;
     font-family: "Papyrus", fantasy;
+    text-indent: 70px;
+    letter-spacing: 2px;
 }
 
 .img1 {
